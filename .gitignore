@@ -1,0 +1,6 @@
+*.mat
+slprj/.DS_Store
+slprj/_cgxe/.DS_Store
+*.l
+*.xml
+.DS_Store
