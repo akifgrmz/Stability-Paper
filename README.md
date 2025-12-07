@@ -65,35 +65,6 @@ for i = 1:NumPoints
 end
 ```
 
-### Generate Publication Figures
-```matlab
-% Load pre-computed results
-load('SynStatsVec_2024.mat');
-
-% Run statistical analysis
-run('stats_analysis.m');
-
-% Figures are automatically generated and saved
-```
-
-## License
-
-This project is part of ongoing biomedical engineering research at Case Western Reserve University. The code is provided for academic and research purposes. For commercial use or clinical implementation, please contact the authors.
-
-## Acknowledgments
-
-This work was supported by [Funding Agency] and conducted at:
-- Case Western Reserve University
-- MetroHealth Center for Rehabilitation Research
-
-Special thanks to the rehabilitation robotics and FES communities for their foundational work on assist-as-needed control and M-Wave filtering techniques.
-
-## Keywords
-
-`stroke rehabilitation` `functional electrical stimulation` `CCFES` `effort estimation` `assist-as-needed` `EMG processing` `M-Wave removal` `stability analysis` `computational model` `biomedical engineering`
-
----
-
 **Last Updated:** December 2024  
 **Status:** Active Development  
 **MATLAB Version Tested:** R2020b, R2023a
